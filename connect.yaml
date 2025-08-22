@@ -1,6 +1,4 @@
 deployAs:
-  - name: assets
-    applicationType: assets
   - name: custom-application-test
     applicationType: merchant-center-custom-application
     configuration:
